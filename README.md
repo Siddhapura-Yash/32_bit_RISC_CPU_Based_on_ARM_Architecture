@@ -19,7 +19,7 @@ This project is a simplified **32-bit RISC processor** implemented in **Verilog*
 - Optional FPGA synthesis in Vivado
 
 ## 📘 Report
-Detailed report included (`Report.pdf`) with diagrams, formats, and explanation of each module.
+Detailed report included (`doc.pdf`) with diagrams, formats, and explanation of each module.
 
 ## 👨‍🎓 Author
 **Siddhapura Yash M**  
